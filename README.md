@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8eb06c0 (Clean up README introductory section)
 ---
 
 # 🚁 DroneMine

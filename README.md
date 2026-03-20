@@ -1,5 +1,3 @@
-# DroneMine-Talent-Tic-2023
-Propuesta de sistema de exploración minera mediante drones equipados con sensores.
 
 ---
 
@@ -32,7 +30,21 @@ Current inspection methods often require **direct human involvement in unsafe en
 
 ---
 
+<<<<<<< HEAD
 ## 💡 Solution Concept
+=======
+# 🚀 Live Demo
+
+A conceptual dashboard prototype was developed to simulate how the DroneMine system could operate in a real-world scenario.
+
+👉 **[https://dronemine-dashboard.vercel.app](https://dronemine-dashboard.vercel.app)**
+
+> ⚠️ This dashboard is a **UI prototype only** and is not connected to real drone hardware or live sensor data.
+
+---
+
+## 🧠 About the Project
+>>>>>>> 722e9a2 (Update README with dashboard demo deploy and improved structure)
 
 DroneMine proposes a **modular monitoring system** that combines:
 
@@ -93,8 +105,65 @@ DroneMine proposes a **modular monitoring system** that combines:
 
 ### Engineering & Design
 
+<<<<<<< HEAD
 * Fusion 360 (3D modeling)
 * System & electronics diagrams
+=======
+* 🚁 **Drone platform** for remote inspection
+* 🌫️ **Environmental sensors** for gas detection
+* 📊 **Web dashboard** for monitoring and decision-making
+
+---
+
+## 🧩 System Architecture
+
+![Architecture](./assets/diagrams/system_architecture.png)
+
+The system was designed with multiple layers:
+
+* **Sensing Layer** → Gas, temperature, environmental data
+* **Processing Layer** → Data acquisition and analysis
+* **Communication Layer** → Data transmission *(conceptual)*
+* **Monitoring Layer** → Dashboard interface
+
+---
+
+## 🚁 Drone Design
+
+![Drone](./assets/drone/drone_render_2.png)
+
+Designed in **Fusion 360**, including:
+
+* Structural frame design
+* Sensor mounting system
+* FPV camera integration
+* Internal component distribution
+
+---
+
+## 📊 Dashboard Concept
+
+![Dashboard](./assets/dashboard/dashboard_mockup.png)
+
+A conceptual dashboard designed to:
+
+* Visualize environmental data
+* Monitor zones and alerts
+* Track mission progress
+
+👉 **Try the interactive version:**
+[https://dronemine-dashboard.vercel.app](https://dronemine-dashboard.vercel.app)
+
+---
+
+## 🛠️ Technology Stack
+
+### Hardware (Conceptual)
+
+* Raspberry Pi
+* Gas sensors (MQ series)
+* Drone components
+>>>>>>> 722e9a2 (Update README with dashboard demo deploy and improved structure)
 
 ### Software (Planned)
 
@@ -102,14 +171,52 @@ DroneMine proposes a **modular monitoring system** that combines:
 * PHP (backend)
 * HTML/CSS (frontend)
 
+<<<<<<< HEAD
 ### Methodology
 
 * Kanban (project organization)
+=======
+### Design & Engineering
+
+* Fusion 360
+* System architecture diagrams
+
+### Prototype (UI Demo)
+
+* React
+* Tailwind CSS
+* Recharts
+* Framer Motion
+
+---
+
+## 📦 Project Artifacts
+
+This repository includes:
+
+* 📄 Technical proposal
+* 📊 Business model canvas
+* 🎨 Drone design renders
+* 🧩 System diagrams
+* 🖥️ Dashboard mockups
+
+---
+
+## 🧪 Incubation & Recognition
+
+DroneMine was developed and evaluated in:
+
+* 🧪 **Talentic (Pre-incubation program)**
+* 🏢 **Gimnasio Avanzza (Business Incubator)**
+
+🏅 Recognized as part of innovation and entrepreneurship initiatives.
+>>>>>>> 722e9a2 (Update README with dashboard demo deploy and improved structure)
 
 ---
 
 ## 📊 Project Status
 
+<<<<<<< HEAD
 | Component               | Status            |
 | ----------------------- | ----------------- |
 | Drone 3D Design         | ✅ Completed       |
@@ -118,6 +225,15 @@ DroneMine proposes a **modular monitoring system** that combines:
 | Hardware Implementation | ❌ Not developed   |
 | Data Integration        | ❌ Not implemented |
 | Functional MVP          | ❌ Not built       |
+=======
+| Component    | Status            |
+| ------------ | ----------------- |
+| Drone Design | ✅ Completed       |
+| Architecture | ✅ Defined         |
+| Dashboard    | ⚠️ UI Prototype   |
+| Hardware     | ❌ Not built       |
+| Integration  | ❌ Not implemented |
+>>>>>>> 722e9a2 (Update README with dashboard demo deploy and improved structure)
 
 ---
 
@@ -172,12 +288,19 @@ I contributed as a **System Designer and Technical Developer**, focusing on:
 
 ## 🧠 Key Learnings
 
+<<<<<<< HEAD
 This project helped me understand:
 
 * The complexity of real-world engineering systems
 * The importance of **incremental development (MVP approach)**
 * The gap between conceptual design and implementation
 * Challenges in communication and navigation in constrained environments
+=======
+* Systems thinking (hardware + software)
+* Product-oriented design
+* Technical documentation
+* Real-world engineering constraints
+>>>>>>> 722e9a2 (Update README with dashboard demo deploy and improved structure)
 
 ---
 
